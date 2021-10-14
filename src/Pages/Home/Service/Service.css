@@ -1,0 +1,19 @@
+.service-container img{
+height: 300px;
+width: 540px;
+padding-top: 5px;
+
+background-color: burlywood;
+}
+.service-container{
+    border: 1px solid gray;
+    border-radius: 10px;
+   
+    background-color: burlywood;
+}
+.name{
+    font-size: 20px;
+}
+.service-main-div:hover .service-container{
+    box-shadow: 10px 10px 10px gray;
+}
